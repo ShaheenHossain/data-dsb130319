@@ -1,0 +1,21 @@
+id,name,lst_price
+__export__.education_fee_type_1_b4b1bbb7,Admission/ readmission fee,100
+__export__.education_fee_type_2_2a24a660,Monthly Fee Name of month,50
+__export__.education_fee_type_3_164d0103,Session Fee,10
+__export__.education_fee_type_4_401d3544,Devolopment Fee,10
+__export__.education_fee_type_5_f9068f48,"Tutorial Fee (1,2,3)",30
+__export__.education_fee_type_6_3bb708b2,"Semister Fee (1,2,3)",30
+__export__.education_fee_type_7_4c881577,"Preperation Test Fee (1,2,3)",30
+__export__.education_fee_type_8_322c0d8e,Delay Fine,10
+__export__.education_fee_type_9_3b942489,Certification / Attestation Fee,20
+__export__.education_fee_type_10_717c6fdd,Syllebus /Magagine Fee,20
+__export__.education_fee_type_11_0d7f7140,Utility,20
+__export__.education_fee_type_12_46743fda,Laboratory Fee,20
+__export__.education_fee_type_13_994f85cf,ICT Fee,20
+__export__.education_fee_type_14_114f8cba,Software Fee,20
+__export__.education_fee_type_15_adfd2da5,SMS Fee,20
+__export__.education_fee_type_16_0b0d3ce1,Medical Fee,20
+__export__.education_fee_type_17_197a435b,Receipt Voucher Fee ,20
+__export__.education_fee_type_18_e649141d,Board /Reg. Fee,30
+__export__.education_fee_type_19_7880381c,Home Science Lab Fee,20
+__export__.education_fee_type_20_7ec2636d,Others Fee,20
